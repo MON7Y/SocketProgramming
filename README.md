@@ -15,3 +15,7 @@ For sending File:
     which will create server.
 2. Run fileclient.py file.
     which will create client.
+    
+    
+For sending Email:
+1. Run emailclient.py file with valid email id and password.
